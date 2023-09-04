@@ -7,7 +7,7 @@
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo227&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo227&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo227&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
